@@ -1,0 +1,8 @@
+{
+  "name": "emilx-developer-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile AI chat dashboard with server-side API key proxy",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
